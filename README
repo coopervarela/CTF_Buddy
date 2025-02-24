@@ -40,8 +40,8 @@ A Discord bot token
 Python Set up:
 
 Clone the repository:
-git clone https://github.com/your-repo/ctf-buddy.git
-cd discord-ctf-buddy
+git clone https://github.com/your-repo/CTF_Buddy.git
+cd CTF_Buddy
 
 Install dependencies:
 pip install -r requirements.txt
@@ -55,8 +55,8 @@ python ctf_Buddy.py
 Docker Deployment:
 
 Clone the repository:
-git clone https://github.com/your-repo/dctf-buddy.git
-cd ctf-buddy
+git clone https://github.com/your-repo/CTF_Buddyy.git
+cd CTF_Buddy
 
 Build the Docker image:
 docker build -t ctf-buddy .
