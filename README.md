@@ -5,10 +5,10 @@ CTF Buddy is a simple Discord bot that helps users find and organize teams for C
 ## Commands
 
 ### `!ctf_lfg <CTF_NAME>`
-Starts a new LFG (Looking For Group) request.
+Starts a new LFG request.
 
 The bot will send a message:
-> React with ✅ if you are looking for a team for HackTheBox!
+ ```React with ✅ if you are looking for a team for HackTheBox! ```
 
 Users then react to the message to participate.
 
@@ -29,7 +29,6 @@ The bot will then respond with:
 ### `!ctf_help`
 Displays a help message explaining commands.
 
----
 
 ## Setup Instructions
 
